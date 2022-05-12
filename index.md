@@ -1,6 +1,5 @@
 ---
-title: Index
-layout: default
+layout: home
 ---
 
-This is my index
+This is my landing page and index

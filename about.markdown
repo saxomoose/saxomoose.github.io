@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "About"
 date:   2022-04-29 20:00:52 +0200
 ---
