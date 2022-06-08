@@ -28,10 +28,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  jekyll
 
 # Build settings
+# custom css in vendor/bundle/ruby/3.0.0/gems/minima-2.5.1/_sass/minima.scss
 theme: minima
-
-  social links:
+  social_links:
     twitter: mathieutulpinck
+    stackoverflow: "saxomoose"
 
 plugins:
   - jekyll-feed
