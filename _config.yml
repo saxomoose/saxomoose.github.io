@@ -32,10 +32,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minima
 
 # custom css in vendor/bundle/ruby/3.0.0/gems/minima-2.5.1/_sass/minima/_layout.scss
-social_links:
+minima:
+  social_links:
     twitter: mathieutulpinck
     stackoverflow: "saxomoose"
-
 
 plugins:
   - jekyll-feed
