@@ -31,11 +31,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 theme: minima
 
-# custom css in vendor/bundle/ruby/3.0.0/gems/minima-2.5.1/_sass/minima/_layout.scss
-minima:
-  social_links:
-    twitter: mathieutulpinck
-    stackoverflow: "saxomoose"
+# custom css in ./_sass/minima/_layout.scss
+twitter_username: mathieutulpinck
 
 plugins:
   - jekyll-feed
