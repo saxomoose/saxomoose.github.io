@@ -22,7 +22,6 @@ title: legal tinkerer
 author: Mathieu Tulpinck
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is meant to help people get kicks while developing.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
