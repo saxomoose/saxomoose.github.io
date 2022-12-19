@@ -1,0 +1,8 @@
+_posts/2022-04-29-welcome-to-jekyll.md
+_site
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+.vscode/
+saxomoose-github-io.code-workspace
+vendor/
