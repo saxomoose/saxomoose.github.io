@@ -33,7 +33,7 @@ excerpt_separator: <!--end-excerpt-->
 theme: minima
 
 # custom css in ./_sass/minima/_layout.scss
-twitter_username: saxomoose
+# twitter_username: saxomoose
 github_username: saxomoose
 
 plugins:
