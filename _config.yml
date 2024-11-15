@@ -34,7 +34,7 @@ theme: minima
 
 # custom css in ./_sass/minima/_layout.scss
 # twitter_username: saxomoose
-github_username: saxomoose
+# github_username: saxomoose
 
 plugins:
   - jekyll-feed
