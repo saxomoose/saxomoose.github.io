@@ -99,13 +99,10 @@ More content after excerpt break.
 ```
 
 ### Proofreading Checklist
-- [ ] Title is clear and compelling
-- [ ] Date is correct
 - [ ] Categories/tags are appropriate
 - [ ] Spelling and grammar
 - [ ] Code blocks are properly formatted
 - [ ] Links work
-- [ ] Images have alt text
 - [ ] Excerpt break (`<!--end-excerpt-->`) is present if needed
 
 ### Formal Modifications
@@ -120,22 +117,18 @@ More content after excerpt break.
 
 ### Research Support
 - Web search for technical references
-- Fact-checking claims and statistics
 - Finding relevant links and resources
 - Suggesting related topics or follow-up ideas
 
 ### Content Organization
 - Suggesting post structure and flow
 - Identifying gaps or unclear sections
-- Recommending visual aids (diagrams, screenshots)
-- Helping create series or multi-part posts
 
 ### Style Guidelines
 - Technical accuracy is paramount
 - Explain concepts clearly for varied audiences
 - Use examples liberally
 - Prefer practical, actionable content
-- Keep politics out (as per site promise)
 
 ---
 
@@ -165,8 +158,3 @@ bundle exec jekyll build
 - [GitHub Pages Docs](https://pages.github.com/)
 - [Minima Theme](https://github.com/jekyll/minima)
 - [Markdown Guide](https://www.markdownguide.org/)
-
----
-
-## Contact
-For questions about this setup, ask me (the assistant) or check the [GitHub repository](https://github.com/saxomoose/saxomoose.github.io).
